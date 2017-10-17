@@ -8,8 +8,8 @@ Dit is een jaarlijkse interactieve vossenjacht die wordt georganiseerd door het 
 Om het hunten en de communicatie een stukje makkelijker te maken, is de website [hunten.me](https://hunten.me) in het leven geroepen!
 
 ## GPS tracker app
-Bij het aansturen van de auto's helpt het ons enorm om te weten waar die auto's zich precies bevinden. We hebben daarom een (Android) app gemaakt die pns voorziet met die locatiegegevens.
+Bij het aansturen van de auto's helpt het ons enorm om te weten waar die auto's zich precies bevinden. We hebben daarom een (Android) app gemaakt die ons voorziet met die locatiegegevens.
 
-De app gebruikt GPS om zijn locatie vast te stellen. Vervolgens kijkt het ok de knop om "Aan" staat en of er een naam is ingevuld. Als aan beide voorwaarden wordt voldaan, dan stuurt het de locatiegegevens met 3G/4G (of wifi) door naar onze server.
+De app gebruikt GPS om zijn locatie vast te stellen. Vervolgens kijkt het of de knop om "Aan" staat en of er een naam is ingevuld. Als aan beide voorwaarden wordt voldaan, dan stuurt het de locatiegegevens met 3G/4G (of wifi) door naar onze server.
 
 De app heet 'Jotihunt-app.apk' en is te vinden in hetzelfde repository als dit bestand in staat. Klik het aan, druk op download en installeer het op je mobiel. Mocht je problemen hebben dan kan je je haatmail met Telegram naar mij (Tim) sturen. 
